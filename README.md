@@ -1,4 +1,4 @@
-# Blinkit-Dashboard (POWEER BI)
+# Blinkit-Dashboard (POWER BI)
 
 🛒 Blinkit Sales Analysis Dashboard (Power BI)
 This interactive Power BI dashboard provides a comprehensive overview of Blinkit’s (India's last-minute delivery app) sales and item performance across various categories, outlets, and sizes. The goal of this dashboard is to help stakeholders make data-driven decisions related to product sales, outlet performance, and inventory management.
